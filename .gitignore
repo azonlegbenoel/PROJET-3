@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+data/ratings.dat
+data/movies.dat
+data/merged.csv
+.DS_Store
